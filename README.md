@@ -21,4 +21,4 @@ https://en.wikipedia.org/wiki/Perlin_noise
 
 ## Result
 
-![Screenshot](https://github.com/F-O-N-S-E-C-A/Apollo/blob/main/imgs/IMG_0671.JPG)
+![Screenshot](https://github.com/F-O-N-S-E-C-A/PerlinNoiseAudioVis/blob/main/img.png)
