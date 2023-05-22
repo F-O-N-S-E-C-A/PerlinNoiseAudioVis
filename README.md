@@ -13,12 +13,12 @@ Each band was then represented by a particle, with its color and position on the
 I also incorporated beat detection, modifying the particles' color hue when a new beat was detected. 
 To generate Perlin noise, I utilized the built-in noise() function, generating noise based on the current value of the corresponding frequency band for each particle.
 
+## Result
+
+![Screenshot](https://github.com/F-O-N-S-E-C-A/PerlinNoiseAudioVis/blob/main/img.png)
+
 ## Sources
 
 https://editor.p5js.org/BarneyCodes/sketches/2eES4fBEL
 https://www.youtube.com/watch?v=YcdldZ1E9gU
 https://en.wikipedia.org/wiki/Perlin_noise
-
-## Result
-
-![Screenshot](https://github.com/F-O-N-S-E-C-A/PerlinNoiseAudioVis/blob/main/img.png)
